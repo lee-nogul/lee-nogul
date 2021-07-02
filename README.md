@@ -15,8 +15,8 @@
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/o_jae1110/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://life-nogul0000.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Study%20Nogul-655ced?style=flat&logo=tistory&link=https://life-nogul0000.tistory.com/"
+        src="http://img.shields.io/badge/-Study%20Nogul-655ced?style=flat&logo=tistory&link=https://life-nogul0000.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
